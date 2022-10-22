@@ -1,0 +1,7 @@
+Video games sales prediction and analysis
+
+potential sales prediction country wise using genre and publisher, category
+
+improvisation:
+- better in depth EDA
+- contains prediction as well

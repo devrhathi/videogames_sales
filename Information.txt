@@ -1,0 +1,40 @@
+DATA ANALYTICS :: 
+
+Applying Ranking Techniques for Product to Games ::
+	http://eprints.utar.edu.my/1960/1/CS-2016-1202014.pdf
+
+Video Games as Information Systems: Exploratory Research on What Gamers Want ::
+	http://www.swdsi.org/swdsi2010/sw2010_preceedings/papers/PA158.pdf
+
+Can product sales be explained by internet search traffic?The case of video games sales ::
+	https://kourentzes.com/forecasting/wp-content/uploads/2015/07/EURO2015_Schaer.pdf
+
+Video Games & Esports: Building on 2020’s Rapid Growth :: 
+	https://www.globalxetfs.com/content/files/Video-Games-Esports-Building-on-2020s-Rapid-Growth.pdf
+
+Empirical Analysis on Sales of Video Games: A Data Mining Approach ::
+	https://iopscience.iop.org/article/10.1088/1742-6596/1049/1/012086/pdf
+
+Feature based Multimedia DataAnalysis in Video Games ::
+	https://repository.ihu.edu.gr/xmlui/bitstream/handle/11544/29278/o.sarakatsanos_ds_8-3-2019.pdf?sequence=1
+
+The Effect of YouTube Reviews on Video Game Sales ::
+	https://www.isarder.org/index.php/isarder/article/view/1504/1457
+ 	 
+The Impact Of Platform On Global Video Game Sales ::
+	https://www.clutejournals.com/index.php/IBER/article/view/8136/8186
+
+Visualizing the International Video Game Industry ::
+	https://wiki.smu.edu.sg/1920t2is428/img_auth.php/7/7a/G5Final_Paper.pdf
+
+Technological Tying and the Intensity of Competition: An Empirical Analysis of the Video Game Industry ::
+	https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1010.9882&rep=rep1&type=pdf
+
+
+
+
+
+
+
+Predicting Video Game Sales Based on Machine Learning and Hybrid Feature Selection Method ::
+	https://ieeexplore.ieee.org/abstract/document/9755343

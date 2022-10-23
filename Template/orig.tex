@@ -5,8 +5,10 @@
 \usepackage{amsmath,amssymb,amsfonts}
 \usepackage{algorithmic}
 \usepackage{graphicx}
+\graphicspath{{./}}
 \usepackage{textcomp}
 \usepackage{xcolor}
+\usepackage{url}
 \def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
     T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
 \begin{document}
@@ -24,7 +26,7 @@
     \IEEEauthorblockA{\textit{Department Of Computer Science And Engineering} \\
         \textit{PES University}\\
         Bangalore, India \\
-        email address or ORCID}
+        harshapatil.karate2001@gmail.com}
 }
 
 
@@ -40,7 +42,7 @@
 \end{IEEEkeywords}
 
 \section{Introduction}
-The video game industry has grown from niches to mainstream in past few years, having a significant contribution on the global sales market. The number of video games being developed, is showing an exponential growth. Data analysis for video game business can become large saled, personalized and real-time. The
+The video game industry has grown from niches to mainstream in past few years, having a significant contribution on the global sales market. The number of video games being developed, is showing an exponential growth. The market had a 20\% year-to-year growth from 2019, reaching over \$179 billion in global revenue in both hardware and software for 2020\cite{b1}.  Data analysis for video game business can become large saled, personalized and real-time. The
 statistical processing and Exploratory Data Analysis (EDA) are mainly performed on the data of game platforms, years of distribution and genres.\\
 There are number of factors that can potentially affect the sales. Some of them would be:
 \begin{itemize}
@@ -56,116 +58,78 @@ In our project, we will be estimating the sales of video games and the sales of 
 In the latter stage, we will infere the resultant statistics from the predictions made and make various conclusions such as prioritizing genres or regions for high sales. Which could help optimize marketing strategy and can potentially decrease marketing budget.\\
 This project demonstrates that it is a worthwhile direction to analyse the sales for the investigation of business strategies for the publishers in conjunction with the market.
 
-
-
 \section{Literature Review}
-Before you begin to format your paper, first write and save the content as a
-separate text file. Complete all content and organizational editing before
-formatting. Please note sections \ref{AA}--\ref{SCM} below for more information on
-proofreading, spelling and grammar.
-
-Keep your text and graphic files separate until after the text has been
-formatted and styled. Do not number text heads---{\LaTeX} will do that
-for you.
-
-\subsection{Abbreviations and Acronyms}\label{AA}
-Define abbreviations and acronyms the first time they are used in the text,
-even after they have been defined in the abstract. Abbreviations such as
-IEEE, SI, MKS, CGS, ac, dc, and rms do not have to be defined. Do not use
-abbreviations in the title or heads unless they are unavoidable.
-
-\subsection{Units}
-\begin{itemize}
-    \item Use either SI (MKS) or CGS as primary units. (SI units are encouraged.) English units may be used as secondary units (in parentheses). An exception would be the use of English units as identifiers in trade, such as ``3.5-inch disk drive''.
-    \item Avoid combining SI and CGS units, such as current in amperes and magnetic field in oersteds. This often leads to confusion because equations do not balance dimensionally. If you must use mixed units, clearly state the units for each quantity that you use in an equation.
-    \item Do not mix complete spellings and abbreviations of units: ``Wb/m\textsuperscript{2}'' or ``webers per square meter'', not ``webers/m\textsuperscript{2}''. Spell out units when they appear in text: ``. . . a few henries'', not ``. . . a few H''.
-    \item Use a zero before decimal points: ``0.25'', not ``.25''. Use ``cm\textsuperscript{3}'', not ``cc''.)
-\end{itemize}
-
-\subsection{Figures and Tables}
-\paragraph{Positioning Figures and Tables} Place figures and tables at the top and
-bottom of columns. Avoid placing them in the middle of columns. Large
-figures and tables may span across both columns. Figure captions should be
-below the figures; table heads should appear above the tables. Insert
-figures and tables after they are cited in the text. Use the abbreviation
-``Fig.~\ref{fig}'', even at the beginning of a sentence.
-
-\begin{table}[htbp]
-    \caption{Table Type Styles}
-    \begin{center}
-        \begin{tabular}{|c|c|c|c|}
-            \hline
-            \textbf{Table} & \multicolumn{3}{|c|}{\textbf{Table Column Head}}                                                         \\
-            \cline{2-4}
-            \textbf{Head}  & \textbf{\textit{Table column subhead}}           & \textbf{\textit{Subhead}} & \textbf{\textit{Subhead}} \\
-            \hline
-            copy           & More table copy$^{\mathrm{a}}$                   &                           &                           \\
-            \hline
-            \multicolumn{4}{l}{$^{\mathrm{a}}$Sample of a Table footnote.}
-        \end{tabular}
-        \label{tab1}
-    \end{center}
-\end{table}
-
-\begin{figure}[htbp]
-    \caption{Example of a figure caption.}
-    \label{fig}
+\textit{What is the effect of Youtube Reviews on Video Games Sales?}\\
+This research paper endeavors to identify if YouTube video reviews are more effective than written reviews by critics or users since they are more vivid and informative. The effects of YouTube review videos created by a user and a firm will be investigated. Their effect will be compared to textual online reviews by critics and consumers. Since videos are vivid and create better visuals about a game experience, YouTube review videos are very likely to have a high impact on video game sales. This is why they should be investigated. It is a timely topic for the video gaming industry to understand the importance of YouTube video reviews for the success of a newly released game. Findings from this research can help game developers and video games companies to plan their marketing strategies, spending efficiently and target the right channels for optimal sales performance. Compared to professional critics and ordinary consumers, YouTube influencers provide more reliable and trustworthy information.\\
+The following ordinary regression model was fitted:\\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.5\textwidth]{L1F1.jpg}
+    \caption{Formulae 1}
 \end{figure}
 
-Figure Labels: Use 8 point Times New Roman for Figure labels. Use words
-rather than symbols or abbreviations when writing Figure axis labels to
-avoid confusing the reader. As an example, write the quantity
-``Magnetization'', or ``Magnetization, M'', not just ``M''. If including
-units in the label, present them within parentheses. Do not label axes only
-with units. In the example, write ``Magnetization (A/m)'' or ``Magnetization
-\{A[m(1)]\}'', not just ``A/m''. Do not label axes with a ratio of
-quantities and units. For example, write ``Temperature (K)'', not
-``Temperature/K''.
-
-\section{Dataset}
-The datasets used in this project were scraped from ``vgchartz.com''.
+Where i indicates a video game title and j represents the YouTube video index. Standardized values will be used in regression due to different units of measurement.\\
+Some of the Hypothesis Argumentation considered in this paper are:\\
 \begin{itemize}
-    \item vgsales - Video Games Sales
-    \item console - Console Sales
+    \item H1: YouTube video posted by an influencer has higher game sales than YouTube video posted by a firm.
+    \item H2: There is a positive relationship between consumer engagement behaviours on YouTube and game sales.
+    \item H3: The effect of YouTube videos on game sales is higher than the effects of ordinary and critic reviews.
+    \item
 \end{itemize}
-\begin{table}[htbp]
-    \caption{Video Games Sales}
-    \begin{tabular}{ll}
-        \hline
-        \multicolumn{1}{c}{Field Name} & Description                                       \\ \hline
-        Rank                           & Ranking of overall sales                          \\
-        Name                           & The games name                                    \\
-        Platform                       & Platform of the games release (i.e. PC,PS4, etc.) \\
-        Year                           & Year of the game's release                        \\
-        Genre                          & Genre of the game                                 \\
-        Publisher                      & Publisher of the game                             \\
-        NA\_Sales                      & Sales in North America (in millions)              \\
-        EU\_Sales                      & Sales in Europe (in millions)                     \\
-        JP\_Sales                      & Sales in Japan (in millions)                      \\
-        Other\_Sales                   & Sales in the rest of the world (in millions)      \\
-        Global\_Sales                  & Total worldwide sales.                            \\ \hline
-    \end{tabular}
-\end{table}
+Additionally, being a multiplatform video game, belonging to the action genre, and being a multiplayer game increased video games sales. Thus, H1 was not confirmed and H2 was confirmed for total views and like/dislike to view ratio, but not for YouTube sentiment.\\
+H3 was not confirmed because the impact of valence of consumer reviews was significantly higher than any of consumers YouTube engagement indicators.\\
+As a social media engagement indicator, the number of YouTube views and likes/dislikes is useful for increasing sales.\\
+In these results, volume, and positive assessments of a new game by consumers, volume of critic reviews, high number of YouTube review videos, and engaging YouTube review videos can help companies to increase their game sales. Besides, the effectiveness of content posted by users compared to content posted by companies did not differ.\\
+This research signified the evidence to support the role of YouTube reviews as an effective communication channel for marketing managers of gaming companies and game developers. Increase YouTube reviews that have high consumer engagement, and select YouTube reviewers with high engagement for further publicity and promotions. Reviews by consumers and critics should not be undervalued because they have the highest positive effects.\\
+\hfill \break
+\textit{What is the Impact of Platform on the global sales of Video Game titles?}\\
+The purpose of this research paper is to analyse the video games industry with a focus on the comparison of the global sales of different gaming platforms. The approach here is to compare global video game sales by their platform for the duration period 2006 through 2011.\\
+Based on the annual sales, the data consists of the top 100 selling video game platforms Nintendo DS, Nintendo GameCube, PC, Sony PlayStation 2, Sony PlayStation 3, Sony PlayStation Portable (PSP), Nintendo Wii, and Microsoft Xbox 360.\\
+The paper starts with the Introduction to various terms, then goes through a brief history of video games and consoles. The history gives us a brief introduction to generations of consoles starting from First Generation Consoles all the way to Seventh Generation Consoles. Then after a quick comparision among all Seventh Generation consoles, handheld consoles, the method of statistics used in this paper is described.\\
+The statistical methodology incorporates a nonparametric approach for the comparision of video game sales across gaming platforms. The non linearity of the data moving from sixth to sevent generation console sales, makes it difficult for us to use a traditional regression model. So, the test that is instead used, is Kruskal-Wallis test since it offers the most powerful test statistic in a completely randomized design without assuming a normal distribution. It is sensitive to differences among means in the k populations and is useful when the alternative hypothesis is that the k populations do not have identical means. The null hypothesis is that the k video game sales on the different platforms come from an identical distribution function.\\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.5\textwidth]{L2F1.jpg}
+    \caption{Formulae 2}
+\end{figure}
+In the equations here, R is the variable rank and N is the total number of observations. The first three equations find average ranks. Fourth equation calculates the sample variance while the fifth equation represents the test statistic T. If the decision is to reject the null hypothesis, sixth equation determines multiple comparisons of video game sales across various platforms.\\
+Despite the observation that the Nintendo Wii is the leader in video game sales, being technical specifications wise superior, the Xbox 360 and Sony PlayStation 3 is not ignored by ``gamers''.\\
+While a gaming personal computer (PC) platform will offer far better graphical capabilities than ANY of these consoles, hardware prices for these machines are usually much higher than the price of a console. Despite being a costly machine, the statistics shows that the market continues to value the PC as a gaming platform\\
+An interesting focus point for the future will be the battle for portable mobile hand-held market. The mobile devices are making significant inroads into the hand-held market.\\
+The results show clear differences in sales by platform along with the brand lines. Nintendo is clearly the gaming leader in this paper with Nintendo Wii as the dominant console and DS being the leading hand-held platforms. Although, being a late arrival, Sony has its own advancements like HD Picture quality and better framerates (FPS) for more visually appealing experience, Motion Sensing Controllers allowing gamers to experience more immersion etc, portability considerations for their hand-held consoles. \\
+Another avenue for future research is to explore the potential for mergers and acquisitions in the video game industry. The timing is ripe for a new console company to enter in the market who understands both hardware and online delivery.
 
-\begin{table}[htbp]
-    \caption{Console Sales}
-    \begin{tabular}{ll}
-        \hline
-        \multicolumn{1}{c}{Field Name} & Description                           \\ \hline
-        ConsoleID                      & Console Name corresponding to vgsales \\
-        Console\_Name                  & Actual console names                  \\
-        Manufacturer                   & Console manufacturer                  \\
-        Release\_Year                  & Console Release Year                  \\
-        Sales                          & Number of units sold                  \\
-        Type                           & Type of console: home or handheld
-    \end{tabular}
-\end{table}
-Here, the ConsoleID is used as a foreign key for joining the video games sales dataset to this dataset and the number of sales are aquired from wikipedia.
 
-\section*{Acknowledgment}
+\section{Exploratory Data Analysis}
+Before coming up with the potential sales prediction idea, the data had to be explored and analysed. The datasets used for this analysis were scraped from \cite{b2}. The datasets are:
+\begin{itemize}
+    \item vgsales - Video Games Sales \cite{b3}
+    \item console - Console Sales \cite{b4}
+\end{itemize}
+Here, in the Console Sales, the ConsoleID is used as a foreign key for joining the video games sales dataset to this dataset and the number of sales are aquired from Wikipedia\cite{b5}. We had to take a closer look at what the data can tell us beyond the formal modeling and thereby contrasting traditional hypothesis testing. We started by pre-processing the data and made it completely usable. Then, we began answering many questions using the data such as:
+\begin{itemize}
+    \item What are the most sold games globally?
+    \item Which was the best performing regions?
+    \item What were the best selling consoles?
+    \item What were the top video game publishers?
+    \item What are the games that released way back but still being a major player in terms of sales?
+    \item What are the top genres that are dominating the global sales?
+\end{itemize}
+The statistical answers and visualizations gave us very detailed insights in the data.\\
+Quite unsurprisingly, the title Wii Sports was the best selling one. North America is the biggest contributor in terms of average sales, having almost double the times of sales of second biggest contributor, Europe.  Top performing genres are Action, contributing a strong \$1751 million USD sales. Sports being the second and followed by Shooter, Role-Playing and Platform genres. Although, these genres sales statistic can be quite baffling, as few titles having a big contribution among all games are not among these top genres. Analysing the top 1\% of games that were released before 2000, Super Mario Bros, Tetris, and Pokemon Red/Pokemon Blue are among the top 7 selling games of all time! Having \$45.31M, \$35.84M and \$31.37M US Dollar Sales respectively, they are competing with newly launched video games. While action being the dominating genre in terms of sales, contribution of all genres are almost equal when it comes to top selling video games globally. \\
+There is some interesting diversity when it comes to top consoles in the regions. North America has Xbox 360, Europe has PlayStation 3 and Japan has DS as their top selling consoles. These top consoles influence region wise most sold game titles. Having highest cummulative sales, PlayStation 2 is the most sold console globally. While Wii Sports is the top selling game among all regions, Japan is an exception. This might be due to the title being exclusive to Wii Consoles and Japan having very less Wii console sales when compared with other regions. Although Japan's contribution in the sales of the title Pokemon Red/Pokemon Blue is quite big. This title is not even among the top 5 games in other regions, yet it is making it to top 7 video games. Again, exclusivity comes into picture for this, since this title is exclusive to DS consoles for which, Japan is the biggest consumer.
+
+\section{Acknowledgment}
 We would like to convey our gratitude to Dr. Nage Gowda for his support and assistance in the completion of this project. We would also like to thank the Computer Science and Engineering Department of PES University for encouraging us with this wonderful opportunity to work on a real world data analysis project with the. We are also thankful to the Teaching Assistants for their involvement and contribution in this course and help us interactively learn new concepts.
 
 \begin{thebibliography}{00}
-    \bibitem{b1} Statistical yearbook: cinema, television, video, and new media in Europe, Volume 1999. Council of Europe. 1996. p. 123. ISBN 9789287129048.
+    \bibitem{b1} Witkowski, Wallace (December 26, 2020). "Videogames are a bigger industry than movies and North American sports combined, thanks to the pandemic". Market Watch. Retrieved December 27, 2020.
+    \bibitem{b2} VGChartz, \textbf{``Video Games Sales''} \textit{\url{vgchartz.com}}
+    \bibitem{b3} GregorUT, \textbf{``vgsales''} \textit{\url{https://www.kaggle.com/datasets/gregorut/videogamesales}}
+    \bibitem{b4} Jaime Paz Lopez, \textbf{``Video Games Sales Dataset''} \textit{\url{https://www.kaggle.com/datasets/jaimepazlopes/game-console-manufactor-and-sales}}
+    \bibitem{b5} Wikipedia, \textbf{``List of best selling game consoles''} \textit{\url{https://en.wikipedia.org/wiki/List_of_best-selling_game_consoles}}
+    \bibitem{b6} Feray Adigüzel, \textbf{``The Effect of YouTube Reviews on Video Game Sales''} \textit{Article  in  Journal of Business Research - Turk · September 2021}
+    \bibitem{b7} Jeffry Babb, Neil Terry, Kareem Dana, \textbf{``The Impact Of Platform On Global Video Game Sales''} \textit{Volume 12, Number 10, International Business \& Economics Research Journal – October 2013}
+
 \end{thebibliography}
 \end{document}

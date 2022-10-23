@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.22)  23 OCT 2022 00:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.22)  23 OCT 2022 13:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -230,6 +230,9 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+) (C:\Users\devrh\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 ) (C:\Users\devrh\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count282
@@ -237,20 +240,20 @@ File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
 ) (orig.aux)
 \openout1 = `orig.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
 
 -- Lines per column: 56 (exact).
 (C:\Users\devrh\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
@@ -272,30 +275,75 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\devrh\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Font Info:    Trying to load font information for U+msa on input line 47.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 45.
+ (C:\Users\devrh\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 49.
  (C:\Users\devrh\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 47.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 49.
  (C:\Users\devrh\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+<L1F1.jpg, id=1, 273.02pt x 93.85063pt>
+File: L1F1.jpg Graphic file (type jpg)
+<use L1F1.jpg>
+Package pdftex.def Info: L1F1.jpg  used on input line 67.
+(pdftex.def)             Requested size: 258.0pt x 88.69359pt.
 
-LaTeX Warning: Reference `SCM' on page 1 undefined on input line 64.
+Overfull \hbox (6.0pt too wide) in paragraph at lines 67--68
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--74
+
+ []
 
 [1{C:/Users/devrh/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 
-]
-LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 121.
- (C:\Users\devrh\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsptm.fd
-File: omsptm.fd 
-)
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 121.
+ <./L1F1.jpg>]
+<L2F1.jpg, id=11, 277.035pt x 154.07562pt>
+File: L2F1.jpg Graphic file (type jpg)
+<use L2F1.jpg>
+Package pdftex.def Info: L2F1.jpg  used on input line 92.
+(pdftex.def)             Requested size: 258.0pt x 143.48868pt.
 
-Underfull \hbox (badness 1418) in paragraph at lines 126--128
-[]\OT1/ptm/m/n/10 The datasets used in this project were scraped from
+Overfull \hbox (6.0pt too wide) in paragraph at lines 92--93
+ [][] 
+ []
+
+
+Underfull \hbox (badness 1838) in paragraph at lines 79--101
+\OT1/ptm/m/n/10 con-sumer re-views was sig-nif-i-cantly higher than any of
+ []
+
+
+Underfull \hbox (badness 5446) in paragraph at lines 79--101
+\OT1/ptm/m/n/10 de-vel-op-ers. In-crease YouTube re-views that have high
+ []
+
+
+Underfull \hbox (badness 3009) in paragraph at lines 79--101
+\OT1/ptm/m/n/10 high en-gage-ment for fur-ther pub-lic-ity and pro-mo-tions.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--101
+
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 79--101
+\OT1/ptm/m/n/10 all Sev-enth Gen-er-a-tion con-soles, hand-held con-soles, the
+ []
+
+[2 <./L2F1.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+[]\OT1/ptm/m/n/8 GregorUT, \OT1/ptm/b/n/8 ``vgsales'' $\OT1/ptm/m/it/8 https : / / www . kaggle . com / datasets / gregorut /
  []
 
 
@@ -309,23 +357,19 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[2] (orig.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+[3] (orig.aux) ) 
 Here is how much of TeX's memory you used:
- 4230 strings out of 475385
- 67385 string characters out of 2776906
- 424249 words of memory out of 3000000
- 25569 multiletter control sequences out of 15000+600000
- 509537 words of font info for 102 fonts, out of 8000000 for 9000
+ 4339 strings out of 475385
+ 68924 string characters out of 2776906
+ 424330 words of memory out of 3000000
+ 25672 multiletter control sequences out of 15000+600000
+ 506863 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,11n,62p,615b,304s stack positions out of 10000i,1000n,20000p,200000b,80000s
-{C:/Users/devrh/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/devrh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/devrh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/devrh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/devrh/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/devrh/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/devrh/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/devrh/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on orig.pdf (2 pages, 93078 bytes).
+ 55i,8n,62p,1070b,363s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Users/devrh/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/devrh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/devrh/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/devrh/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/devrh/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/devrh/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on orig.pdf (3 pages, 166840 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
+ 40 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

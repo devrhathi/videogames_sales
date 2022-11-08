@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1666512433 "g:/My Drive/PESU/Work/Sem 5/DA/Project/Template/orig.tex" "orig.pdf" "orig" 1666512436
+["pdflatex"] 1666519284 "g:/My Drive/PESU/Work/Sem 5/DA/Project/Template/orig.tex" "orig.pdf" "orig" 1666519286
   "C:/Users/devrh/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1666494284 82705 9cc9f144eacd499bc23a611703921467 ""
   "C:/Users/devrh/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1666448974 10788011 7e704692bb7679cff2bede28d126d410 ""
   "C:/Users/devrh/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -72,9 +72,9 @@
   "C:/Users/devrh/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "L1F1.jpg" 1666494470 42632 50dd60adf19e6cb82ec66c25d2cb8df2 ""
   "L2F1.jpg" 1666503904 37393 39c7aa49a17ad5cd9fca24523747f468 ""
-  "g:/My Drive/PESU/Work/Sem 5/DA/Project/Template/orig.tex" 1666512432 15406 fcba01a3d52d02de416bd8f66df7e094 ""
-  "orig.aux" 1666512435 947 abb8b899fa6bb300316fc28bb782d34e "pdflatex"
-  "orig.tex" 1666512432 15406 fcba01a3d52d02de416bd8f66df7e094 ""
+  "g:/My Drive/PESU/Work/Sem 5/DA/Project/Template/orig.tex" 1666519283 15407 3d52004ac9eb3c837246e32201ad3a23 ""
+  "orig.aux" 1666519285 947 abb8b899fa6bb300316fc28bb782d34e "pdflatex"
+  "orig.tex" 1666519283 15407 3d52004ac9eb3c837246e32201ad3a23 ""
   (generated)
   "orig.aux"
   "orig.log"

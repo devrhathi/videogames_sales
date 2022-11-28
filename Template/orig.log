@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.22)  23 OCT 2022 15:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.22)  27 NOV 2022 23:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -237,7 +237,11 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count282
 \l__pdf_internal_box=\box55
-) (orig.aux)
+) (orig.aux
+
+LaTeX Warning: Label `b7' multiply defined.
+
+)
 \openout1 = `orig.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
@@ -317,32 +321,107 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 92--93
  []
 
 
-Underfull \hbox (badness 1838) in paragraph at lines 79--101
+Underfull \hbox (badness 1838) in paragraph at lines 79--117
 \OT1/ptm/m/n/10 con-sumer re-views was sig-nif-i-cantly higher than any of
  []
 
 
-Underfull \hbox (badness 5446) in paragraph at lines 79--101
+Underfull \hbox (badness 5446) in paragraph at lines 79--117
 \OT1/ptm/m/n/10 de-vel-op-ers. In-crease YouTube re-views that have high
  []
 
 
-Underfull \hbox (badness 3009) in paragraph at lines 79--101
+Underfull \hbox (badness 3009) in paragraph at lines 79--117
 \OT1/ptm/m/n/10 high en-gage-ment for fur-ther pub-lic-ity and pro-mo-tions.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--101
+Underfull \hbox (badness 10000) in paragraph at lines 79--117
 
  []
 
 
-Underfull \hbox (badness 1454) in paragraph at lines 79--101
+Underfull \hbox (badness 1454) in paragraph at lines 79--117
 \OT1/ptm/m/n/10 all Sev-enth Gen-er-a-tion con-soles, hand-held con-soles, the
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--117
+
+ []
+
+
+Underfull \hbox (badness 2735) in paragraph at lines 79--117
+\OT1/ptm/m/it/10 What were the Strengths, Weak-ness, Op-por-tu-ni-ties and
+ []
+
+
+Underfull \hbox (badness 1845) in paragraph at lines 79--117
+\OT1/ptm/m/n/10 Sony's PlaySta-tion is the second-best al-ter-na-tive choice
+ []
+
+
+Underfull \hbox (badness 2856) in paragraph at lines 79--117
+\OT1/ptm/m/n/10 PlaySta-tion had good de-vel-op-ment and sales prospects
+ []
+
 [2 <./L2F1.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 128--129
+<top10games.png, id=15, 702.625pt x 501.875pt>
+File: top10games.png Graphic file (type png)
+<use top10games.png>
+Package pdftex.def Info: top10games.png  used on input line 136.
+(pdftex.def)             Requested size: 258.0pt x 184.28943pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 136--137
+ [][] 
+ []
+
+<regionplatform.png, id=17, 702.625pt x 501.875pt>
+File: regionplatform.png Graphic file (type png)
+<use regionplatform.png>
+Package pdftex.def Info: regionplatform.png  used on input line 143.
+(pdftex.def)             Requested size: 258.0pt x 184.28943pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 143--144
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[3]
+<totalgenre.png, id=21, 702.625pt x 501.875pt>
+File: totalgenre.png Graphic file (type png)
+<use totalgenre.png>
+Package pdftex.def Info: totalgenre.png  used on input line 151.
+(pdftex.def)             Requested size: 258.0pt x 184.28943pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 151--152
+ [][] 
+ []
+
+<regionplatformps4.png, id=22, 884.5848pt x 346.896pt>
+File: regionplatformps4.png Graphic file (type png)
+<use regionplatformps4.png>
+Package pdftex.def Info: regionplatformps4.png  used on input line 157.
+(pdftex.def)             Requested size: 258.0pt x 101.17421pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 157--158
+ [][] 
+ []
+
+<regionplatformxb1.png, id=23, 919.9971pt x 346.896pt>
+File: regionplatformxb1.png Graphic file (type png)
+<use regionplatformxb1.png>
+Package pdftex.def Info: regionplatformxb1.png  used on input line 163.
+(pdftex.def)             Requested size: 258.0pt x 97.2837pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 163--164
+ [][] 
+ []
+
+[4 <./top10games.png> <./regionplatform.png> <./totalgenre.png> <./regionplatformps4.png> <./regionplatformxb1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
 []\OT1/ptm/m/n/8 GregorUT, \OT1/ptm/b/n/8 ``vgsales'' $\OT1/ptm/m/it/8 https : / / www . kaggle . com / datasets / gregorut /
  []
 
@@ -357,19 +436,25 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[3] (orig.aux) ) 
+[5
+
+] (orig.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4339 strings out of 475385
- 68924 string characters out of 2776906
- 424330 words of memory out of 3000000
- 25672 multiletter control sequences out of 15000+600000
+ 4375 strings out of 475385
+ 69699 string characters out of 2776906
+ 427489 words of memory out of 3000000
+ 25702 multiletter control sequences out of 15000+600000
  506863 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,8n,62p,1070b,363s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 55i,8n,62p,1123b,363s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/devrh/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/devrh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/devrh/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/devrh/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/devrh/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/devrh/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on orig.pdf (3 pages, 166844 bytes).
+Output written on orig.pdf (5 pages, 362833 bytes).
 PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
+ 57 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 

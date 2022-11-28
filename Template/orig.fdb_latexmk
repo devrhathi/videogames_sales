@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1666519284 "g:/My Drive/PESU/Work/Sem 5/DA/Project/Template/orig.tex" "orig.pdf" "orig" 1666519286
-  "C:/Users/devrh/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1666494284 82705 9cc9f144eacd499bc23a611703921467 ""
+["pdflatex"] 1669570986 "g:/My Drive/PESU/Work/Sem 5/DA/Project/Template/orig.tex" "orig.pdf" "orig" 1669570989
+  "C:/Users/devrh/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1667882688 82705 9cc9f144eacd499bc23a611703921467 ""
   "C:/Users/devrh/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1666448974 10788011 7e704692bb7679cff2bede28d126d410 ""
   "C:/Users/devrh/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
   "C:/Users/devrh/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/ptmb7t.tfm" 1136752454 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -72,9 +72,14 @@
   "C:/Users/devrh/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "L1F1.jpg" 1666494470 42632 50dd60adf19e6cb82ec66c25d2cb8df2 ""
   "L2F1.jpg" 1666503904 37393 39c7aa49a17ad5cd9fca24523747f468 ""
-  "g:/My Drive/PESU/Work/Sem 5/DA/Project/Template/orig.tex" 1666519283 15407 3d52004ac9eb3c837246e32201ad3a23 ""
-  "orig.aux" 1666519285 947 abb8b899fa6bb300316fc28bb782d34e "pdflatex"
-  "orig.tex" 1666519283 15407 3d52004ac9eb3c837246e32201ad3a23 ""
+  "g:/My Drive/PESU/Work/Sem 5/DA/Project/Template/orig.tex" 1669570985 20270 e3207a57c1a0f00469bb77e511a8a582 ""
+  "orig.aux" 1669570988 1864 d4067a0aecc7e8d34e176d8b55186ed7 "pdflatex"
+  "orig.tex" 1669570985 20270 e3207a57c1a0f00469bb77e511a8a582 ""
+  "regionplatform.png" 1669568328 37337 23d6d726c2d2c6c6e1f915179a9c685c ""
+  "regionplatformps4.png" 1669570608 78853 7ea6ad534a53daf230ddc111e7b01b47 ""
+  "regionplatformxb1.png" 1669570629 81631 c77b9876154a67c611f3d09b6d540ba8 ""
+  "top10games.png" 1669559374 51110 1f8e352a27f6cc85ea14862276912bc9 ""
+  "totalgenre.png" 1669570804 37001 00bedc31e349b95c0db8631991ffe3f9 ""
   (generated)
   "orig.aux"
   "orig.log"

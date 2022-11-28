@@ -22,3 +22,41 @@ sea of thieves
 halo
 forza
 sunset overdrive
+
+
+
+
+
+
+
+
+
+GUIDLINES
+
+Final report
+4-5 page report in 2 column IEEE Conf format
+[0.5-1 page] Introduction and background – what is the problem area? Why is it important? What is the specific
+problem you seek to solve?
+[0.5 -1 page] Previous work – A brief review of only the most relevant predecessor work; what limitations have you
+identified that you seek to address in your work? What are the assumptions you have made about the data/ problem
+area or the scope of the problem you seek to solve?
+[1.5 - 2 pages] Proposed solution – an overview of the various components of your solution (preprocessing +
+building a model + evaluation)
+This is to be followed by a detailed explanation of each component and what you have
+[1.5-2 pages] Experimental results and a detailed explanation of all the insights you have gained into the data (on
+what cases does the model work well? When does it fail?)
+[0.5 page] Conclusions
+[Not included in page count] Contribution of each team member + References + [optional] Anything interesting you
+would like us to know (either some interesting technical find or about the problem domain or just the experience of
+working on the project, etc.) Also, an Appendix with any further visualizations or tables of comparison not included
+in the main paper.
+Plagiarism check: Please submit your report to librarian@pes.edu and upload this also with your report
+(you can refine your report to reduce the similarity if you complete this check well in time).
+Video
+[1 min] What problem have you selected and what data set are you using to solve the problem?
+[1 min] Why is what you have done important/ useful?
+[1 min] What is the approach you have taken?
+[1 min] How did you evaluate your solution/ the algorithm you implemented?
+[1 min] Anything interesting that you inferred about the data or learnt through the process? Also, the specific role of
+each member of the team.
++ 1 min buffer – anything beyond 6 minutes will not be evaluated.

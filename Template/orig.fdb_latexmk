@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1669570986 "g:/My Drive/PESU/Work/Sem 5/DA/Project/Template/orig.tex" "orig.pdf" "orig" 1669570989
+["pdflatex"] 1669897211 "g:/My Drive/PESU/Work/Sem 5/DA/Project/Template/orig.tex" "orig.pdf" "orig" 1669897214
   "C:/Users/devrh/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1667882688 82705 9cc9f144eacd499bc23a611703921467 ""
   "C:/Users/devrh/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1666448974 10788011 7e704692bb7679cff2bede28d126d410 ""
   "C:/Users/devrh/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -72,9 +72,16 @@
   "C:/Users/devrh/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "L1F1.jpg" 1666494470 42632 50dd60adf19e6cb82ec66c25d2cb8df2 ""
   "L2F1.jpg" 1666503904 37393 39c7aa49a17ad5cd9fca24523747f468 ""
-  "g:/My Drive/PESU/Work/Sem 5/DA/Project/Template/orig.tex" 1669570985 20270 e3207a57c1a0f00469bb77e511a8a582 ""
-  "orig.aux" 1669570988 1864 d4067a0aecc7e8d34e176d8b55186ed7 "pdflatex"
-  "orig.tex" 1669570985 20270 e3207a57c1a0f00469bb77e511a8a582 ""
+  "before merge arima.png" 1669896162 24480 49c04814baeea2ccb6296ebdafbac79e ""
+  "decompose.png" 1669896150 38658 a1d86c384169d746a08dc7652c46d1fb ""
+  "downfall pred.png" 1669896176 24075 e0d83165e397fa5e684032a87247b80a ""
+  "excl1.png" 1669896281 24648 6194716ad54ba04fa1fef7ee679345a4 ""
+  "excl2.png" 1669896289 27170 6bc6a136c4c502bb5f3ec072db4fab33 ""
+  "g:/My Drive/PESU/Work/Sem 5/DA/Project/Template/orig.tex" 1669897210 28286 52fcc0643f55d96d08dfe7f84e572591 ""
+  "merged pred.png" 1669896270 23962 48d733687d75f28d2814409a084978b8 ""
+  "merged.png" 1669896195 18388 6ba67be75f270f3dfea71f43035b3565 ""
+  "orig.aux" 1669897213 2935 6bb3ca4bb633a8acf432c7b27f8df680 "pdflatex"
+  "orig.tex" 1669897210 28286 52fcc0643f55d96d08dfe7f84e572591 ""
   "regionplatform.png" 1669568328 37337 23d6d726c2d2c6c6e1f915179a9c685c ""
   "regionplatformps4.png" 1669570608 78853 7ea6ad534a53daf230ddc111e7b01b47 ""
   "regionplatformxb1.png" 1669570629 81631 c77b9876154a67c611f3d09b6d540ba8 ""
